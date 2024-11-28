@@ -1,4 +1,4 @@
-Outlook의 Copilot은 AI 기반 지원을 통해 받은 편지함 관리를 더 쉽게 만들어 전자 메일을 빠르게 작성하고 긴 전자 메일 스레드를 짧은 요약으로 전환할 수 있도록 지원합니다. LLM(대규모 언어 모델)의 기능을 Outlook 데이터와 결합하여 작업 공간의 생산성을 유지할 수 있습니다. 전자 메일 스레드(대화라고도 함)를 요약하여 여러 메시지에서 주요 포인트를 끌어낼 수 있습니다.
+Outlook의 Copilot은 AI 기반 지원을 통해 받은 편지함 관리를 더 쉽게 만들어 이메일을 빠르게 작성하고 긴 이메일 스레드를 짧은 요약으로 전환할 수 있도록 지원합니다. LLM(대규모 언어 모델)의 기능을 Outlook 데이터와 결합하여 작업 공간의 생산성을 유지할 수 있습니다. 전자 메일 스레드(대화라고도 함)를 요약하여 여러 메시지에서 주요 포인트를 끌어낼 수 있습니다.
 
 > [!NOTE]
 > Microsoft 365용 Outlook 초안 작성은 현재 새 Windows용 Outlook, 웹용 Outlook 및 Outlook.com에서 사용할 수 있습니다. 클래식 Outlook을 사용하는 경우 [새 Outlook 받기](https://support.microsoft.com/office/start-using-new-outlook-for-windows-4395454d-cb2f-4c16-bb24-fa4bb36650ae)를 참조합니다. 액세스할 수 없는 경우 IT 관리자에게 합니다.
