@@ -15,7 +15,7 @@ Excel의 리본에서 **Copilot** 을 선택하여 채팅 창을 엽니다. Co
 
 1.  **확인**을 선택합니다.
 
-![처음 열 때 Excel의 Copilot 패널 스크린샷.](../media/copilot-pane-Excel.png)
+![처음 열 때 Excel의 Copilot 패널 스크린샷.](../media/copilot-pane-excel.png)
 
 ## 사용해 보겠습니다.
 
