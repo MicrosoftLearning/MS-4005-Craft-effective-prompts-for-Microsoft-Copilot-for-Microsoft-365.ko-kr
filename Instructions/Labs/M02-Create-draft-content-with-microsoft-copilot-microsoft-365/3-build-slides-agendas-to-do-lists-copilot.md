@@ -1,12 +1,14 @@
-PowerPoint의 Microsoft 365 Copilot은 슬라이드를 만들고 디자인하고 서식을 지정하는 데 도움이 되는 AI 기반 기능입니다.  프레젠테이션을 통해 전달하려는 내용을 입력할 수 있으며, Copilot은 프레젠테이션을 완료하는 데 도움이 됩니다. 
+# PowerPoint에서 Microsoft 365 Copilot을 사용하여 새 슬라이드, 어젠더 및 할 일 목록 작성
+
+PowerPoint의 Microsoft 365 Copilot은 슬라이드를 만들고 디자인하고 서식을 지정하는 데 도움이 되는 AI 기반 기능입니다.  프레젠테이션을 통해 전달하려는 내용을 입력할 수 있으며, Copilot은 프레젠테이션을 완료하는 데 도움이 됩니다.
 
 Copilot은 초기 빈 슬라이드를 지나 올바른 방향으로 이동하는 데 도움이 될 수 있습니다. PowerPoint에서 Copilot 사용을 시작하려면 리본의 **홈** 탭에서 Copilot 아이콘을 통해 **Copilot** 창을 열 수 있습니다.
 
-![PowerPoint 리본 메뉴의 Copilot 아이콘을 보여주는 스크린샷.](../media/copilot-ribbon-powerpoint.png)
+![PowerPoint 리본 메뉴의 Copilot 아이콘을 보여주는 스크린샷.](../media/create_copilot-ribbon-powerpoint.png)
 
 Copilot 창에서 Word 문서 또는 원하는 항목에 대한 새 프레젠테이션을 만들 수 있습니다. 이 예제에서는 기본 요청으로 시작하여 토픽에 대한 프레젠테이션을 만들고 프롬프트를 보다 강력하게 만들기 위해 다른 요소를 추가합니다.
 
-![PowerPoint의 Copilot 패널을 처음 열 때의 스크린샷.](../media/copilot-pane-powerpoint.png)
+![PowerPoint의 Copilot 패널을 처음 열 때의 스크린샷.](../media/create_copilot-pane-powerpoint.png)
 
 > [!TIP]
 > 현재 PowerPoint의 Copilot은 Word 문서에서만 프레젠테이션을 만들 수 있습니다.
@@ -26,17 +28,15 @@ Copilot 창에서 Word 문서 또는 원하는 항목에 대한 새 프레젠테
 
 | 요소 | 예시 |
 | :------ | :------- |
-| 기본 프롬프트: <br>**목표**를 가지고 시작하기 | **_새 PowerPoint 프레젠테이션을 만듭니다._** |
-| 좋은 프롬프트: <br>**컨텍스트** 추가 | **컨텍스트**를 추가하면 Copilot이 만들 문서의 종류와 사용할 문서를 이해하는 데 도움이 될 수 있습니다.<br><br>"_잠재 고객에게 제품의 기능과 이점을 제시해야 해._" |
-| 더 나은 프롬프트: <br>**원본** 지정 | **원본**을 추가하면 Copilot이 특정 정보를 찾을 수 있는 위치를 파악하는 데 도움이 됩니다.<br><br>"_**/시장 추세 보고서- 단백질 쉐이크.docx**의 최신 버전을 사용해 줘._" |
-| 최상의 프롬프트: <br>명확한 **기대치** 설정 | 마지막으로 **기대치**를 추가하면 Copilot이 문서를 작성하고 서식을 지정하는 방법을 이해하는 데 도움이 됩니다.<br><br>"_제품의 개요, 주요 기능 및 이점, 시장에서 유사한 제품에 대한 비교를 포함하고 쉬운 언어를 사용해 줘._" |
+| **기본 프롬프트:** 목표로 **시작** | **_새 PowerPoint 프레젠테이션을 만듭니다._** |
+| **좋은 프롬프트:** 컨텍스트 **추가** | **컨텍스트**를 추가하면 Copilot이 만들 문서의 종류와 사용할 문서를 이해하는 데 도움이 될 수 있습니다. _"잠재 고객에게 제품의 기능과 이점을 제시해야 해."_ |
+| **더 나은 프롬프트:** 원본 **지정** | **원본**을 추가하면 Copilot이 특정 정보를 찾을 수 있는 위치를 파악하는 데 도움이 됩니다. _"... **/Market Trend Report- Protein shake.docx**의 최신 버전을 사용해 줘."_ |
+| **최상의 프롬프트:** 명확한 **기대치 설정** | 마지막으로 **기대치**를 추가하면 Copilot이 문서를 작성하고 서식을 지정하는 방법을 이해하는 데 도움이 됩니다. _"제품의 개요, 주요 기능 및 이점, 시장에서 유사한 제품에 대한 비교를 포함하고 쉬운 언어를 사용해 줘."_ |
 
 > [!NOTE]
 > **완성된 프롬프트**:
 >
-> _**/시장 추세 보고서- 단백질 쉐이크.docx**의 최신 버전을 사용하여 새 PowerPoint 프레젠테이션을 만들어 줘. 잠재 고객에게 제품의 기능과 이점을 제시해야 해. 제품의 개요, 주요 기능 및 이점, 시장에서 유사한 제품 비교를 포함하고 쉬운 언어를 사용해 줘._
-
-[![PowerPoint에서 Copilot을 사용하여 샘플 문서에 대해 만들어진 프롬프트 결과를 스크린샷으로 표시합니다.](../media/copilot-draft-results-powerpoint.png)](../media/copilot-draft-results-powerpoint.png#lightbox)
+> _**/Market Trend Report- Protein shake.docx**의 최신 버전을 사용하여 새 PowerPoint 프레젠테이션을 만들어 줘. 잠재 고객에게 제품의 기능과 이점을 제시해야 해. 제품의 개요, 주요 기능 및 이점, 시장에서 유사한 제품 비교를 포함하고 쉬운 언어를 사용해 줘._
 
 **목표**, **컨텍스트**, **원본**, **기대치**가 모두 제시되었으므로, Copilot은 훌륭한 응답을 제공하기 위한 모든 준비를 갖추고 있습니다.
 
@@ -62,4 +62,4 @@ Copilot 창에서 Word 문서 또는 원하는 항목에 대한 새 프레젠테
 조직에서 표준 템플릿을 사용하는 경우 Copilot으로 프레젠테이션을 만들기 전에 이 파일로 시작합니다. 템플릿으로 시작하면 Copilot에 사용자가 프레젠테이션의 테마와 디자인을 유지하고 싶어한다는 의사를 알릴 수 있습니다. Copilot은 기존 레이아웃을 사용하여 프레젠테이션을 작성합니다.
 
 > [!IMPORTANT]
-> 이 기능은 Microsoft 365용 Copilot 라이선스 또는 Copilot Pro 라이선스를 보유한 고객이 사용할 수 있습니다. 자세한 내용은 [Copilot으로 파일에서 프레젠테이션 만들기](https://support.microsoft.com/office/create-a-new-presentation-3222ee03-f5a4-4d27-8642-9c387ab4854d)를 참조합니다.
+> 이 기능은 Microsoft 365 Copilot 라이선스 또는 Copilot Pro 라이선스를 가진 고객이 사용할 수 있습니다. 자세한 내용은 [Copilot으로 파일에서 프레젠테이션 만들기](https://support.microsoft.com/office/create-a-new-presentation-3222ee03-f5a4-4d27-8642-9c387ab4854d)를 참조합니다.

@@ -1,3 +1,4 @@
+# Teams 모임의 주요 결정 및 작업 강조 표시
 
 Microsoft Teams의 Copilot은 공동 작업을 개선하고 Teams 채팅 및 모임을 최대한 활용할 수 있도록 도와줍니다. 빠르게 요약하고, 후속작업을 파악하고, 어젠더를 만들고, 질문하여 보다 효과적이고 집중력 있는 모임을 진행합니다. 주요 내용을 요약하고, 누락된 내용을 확인하고, 추가된 채팅 스레드에서 관심 있는 주요 사용자를 정확히 파악합니다. 이 모든 것이 토론의 흐름을 끊지 않고 진행됩니다. 다음 모임 및 통화에서 Copilot을 사용할 수 있습니다.
 
@@ -17,13 +18,13 @@ Teams의 Copilot은 Teams 채팅 및 모임 콘텐츠를 사용하여 가장 중
 
 -  또는 통화는 Copilot이 분석할 수 있을 만큼 충분히 깁니다. 아직 모임에 대화 내용이 기록된 음성이 충분하지 않은 경우 Copilot은 프롬프트에 응답하기 전에 더 많은 정보가 필요하다고 말합니다.
 
-모임 또는 통화 중에 모임 컨트롤에서 **Copilot**을 선택합니다. 대화 내용 기록이 아직 설정되지 않은 경우 이를 켜라는 메시지가 표시됩니다. 
+모임 또는 통화 중에 모임 컨트롤에서 **Copilot**을 선택합니다. 대화 내용 기록이 아직 설정되지 않은 경우 이를 켜라는 메시지가 표시됩니다.
 
-![Teams 모임의 Copilot 아이콘 스크린샷.](../media/copilot-ribbon-teams.png)
+![Teams 모임의 Copilot 아이콘 스크린샷.](../media/summarize_copilot-ribbon-teams.png)
 
 Copilot은 모임 창 오른쪽의 패널에 나타납니다. 모임이 끝나면 **Teams 일정**에서 모임을 선택합니다. 여기에서 모임 세부 정보에서 **요약** 탭을 선택합니다. 모임 요약에서 Copilot 패널에 액세스하여 모임에 대한 질문을 할 수도 있습니다.
 
-![처음 열 때 Teams의 Copilot 채팅 패널 스크린샷.](../media/copilot-pane-teams.png)
+![처음 열 때 Teams의 Copilot 채팅 패널 스크린샷.](../media/summarize_copilot-pane-teams.png)
 
 ## 사용해 보겠습니다.
 
@@ -36,10 +37,10 @@ Copilot은 모임 창 오른쪽의 패널에 나타납니다. 모임이 끝나�
 
 | 요소 | 예시 |
 | :------ | :------- |
-| 기본 프롬프트: <br>**목표**를 가지고 시작하기 | **이 Teams 모임을 요약합니다.** |
-| 좋은 프롬프트: <br>**컨텍스트** 추가 | **컨텍스트**를 추가하면 Copilot이 목적을 이해하고 그에 따라 응답을 조정하는 데 도움이 될 수 있습니다.<br><br>"_늦게 참석하게 되어 프로젝트 타임라인에 대한 간략한 개요가 필요해._" |
-| 더 나은 프롬프트: <br>**원본** 지정 | **원본**을 추가하면 Copilot이 요약해야 하는 부분을 이해하고 보다 정확한 응답을 제공할 수 있습니다.<br><br>"_Adele Vance가 변경 사항을 제안했니?_" |
-| 최상의 프롬프트: <br>명확한 **기대치** 설정 | 마지막으로, **기대치**를 추가하면 Copilot이 요약 서식을 지정하는 방법과 필요한 세부 수준을 이해하는 데 도움이 될 수 있습니다.<br><br>"_프로젝트 타임라인을 테이블에 포함하고 Adele이 제안한 변경 내용을 포함해 줘._" |
+| **기본 프롬프트:** 목표로 **시작** | **이 Teams 모임을 요약합니다.** |
+| **좋은 프롬프트:** 컨텍스트 **추가** | **컨텍스트**를 추가하면 Copilot이 목적을 이해하고 그에 따라 응답을 조정하는 데 도움이 될 수 있습니다. _"늦게 참석하게 되어 프로젝트 타임라인에 대한 간략한 개요가 필요해."_ |
+| **더 나은 프롬프트:** 원본 **지정** | **원본**을 추가하면 Copilot이 요약해야 하는 부분을 이해하고 보다 정확한 응답을 제공할 수 있습니다. _"Adele Vance가 변경 사항을 제안했니?"_ |
+| **최상의 프롬프트:** 명확한 **기대치 설정** | 마지막으로, **기대치**를 추가하면 Copilot이 요약 서식을 지정하는 방법과 필요한 세부 수준을 이해하는 데 도움이 될 수 있습니다. _"프로젝트 타임라인을 테이블에 포함하고 Adele이 제안한 변경 내용을 포함해 줘."_ |
 
 > [!NOTE]
 > **완성된 프롬프트**:
@@ -59,4 +60,4 @@ Copilot은 모임 창 오른쪽의 패널에 나타납니다. 모임이 끝나�
 - [이 사람]의 읽지 않은 이메일 요약
 
 > [!IMPORTANT]
-> Teams의 Copilot 기능은 Windows, Mac, 웹, Android 및 iOS에서 사용할 수 있습니다. Teams에서 Copilot에 액세스하려면 Microsoft 365 및 Microsoft 365 Copilot 라이선스가 있어야 합니다. Teams 모임에서 Copilot을 사용하는 방법에 대한 자세한 시나리오는 [Microsoft Teams 모임에서 Copilot 시작](https://support.microsoft.com/office/get-started-with-copilot-in-microsoft-teams-meetings-0bf9dd3c-96f7-44e2-8bb8-790bedf066b1)을 참조합니다. 
+> Teams의 Copilot 기능은 Windows, Mac, 웹, Android 및 iOS에서 사용할 수 있습니다. Teams에서 Copilot에 액세스하려면 Microsoft 365 및 Microsoft 365 Copilot 라이선스가 있어야 합니다. Teams 모임에서 Copilot을 사용하는 방법에 대한 자세한 시나리오는 [Microsoft Teams 모임에서 Copilot 시작](https://support.microsoft.com/office/get-started-with-copilot-in-microsoft-teams-meetings-0bf9dd3c-96f7-44e2-8bb8-790bedf066b1)을 참조합니다.
