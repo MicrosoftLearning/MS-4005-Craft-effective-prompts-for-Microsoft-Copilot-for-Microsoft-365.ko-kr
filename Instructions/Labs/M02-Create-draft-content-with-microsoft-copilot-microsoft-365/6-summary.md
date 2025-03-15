@@ -1,6 +1,8 @@
-이 모듈에서는 Word, PowerPoint, Outlook 및 Microsoft 365 Chat과 같은 다양한 Microsoft 애플리케이션에서 Copilot을 사용하는 방법을 알아봅니다. Word에서 리본의 홈 탭을 통해 Copilot 창을 열거나 문서에서 직접 쓰기를 시작하여 새 콘텐츠를 생성할 수 있습니다. PowerPoint에서 Copilot은 프레젠테이션의 콘텐츠를 입력하여 슬라이드를 만들고, 디자인하고, 서식을 지정하는 데 도움을 줍니다. Outlook에서 Copilot은 이메일 초안을 빠르게 작성하고 긴 이메일 스레드를 요약하여 받은 편지함 관리 및 이메일 작성을 지원합니다. 마지막으로 Microsoft 365 Business Chat은 업무 데이터 및 앱과 통합되어 창의성, 생산성 및 기술 개발을 향상시킵니다.
+# 요약
 
-이 모듈의 주요 내용은 다음과 같습니다.
+이 모듈에서는 Word, PowerPoint, Outlook 및 Microsoft 365 Chat과 같은 다양한 Microsoft 애플리케이션에서 Copilot을 사용하는 방법을 알아봅니다. Word에서 리본의 홈 탭을 통해 Copilot 창을 열거나 문서에서 직접 쓰기를 시작하여 새 콘텐츠를 생성할 수 있습니다. PowerPoint에서 Copilot은 프레젠테이션의 콘텐츠를 입력하여 슬라이드를 만들고, 디자인하고, 서식을 지정하는 데 도움을 줍니다. Outlook에서 Copilot은 이메일 초안을 빠르게 작성하고 긴 이메일 스레드를 요약하여 받은 편지함 관리 및 이메일 작성을 지원합니다. 마지막으로 Microsoft 365 Copilot Chat은 업무 데이터 및 앱과 통합되어 창의성, 생산성 및 기술 개발을 향상시킵니다.
+
+이 모듈의 중요한 점은 다음과 같습니다.
 
 1. Copilot은 콘텐츠를 생성하고, 프레젠테이션을 만들고, 전자 메일을 작성하고, 더 광범위한 목표와 목적을 달성하는 데 도움이 되는 AI 기반 도구입니다.
 
@@ -18,4 +20,4 @@
 
 - [Outlook의 Copilot을 사용하여 전자 메일 메시지 초안 작성](https://support.microsoft.com/office/draft-an-email-message-with-copilot-in-outlook-3eb1d053-89b8-491c-8a6e-746015238d9b)
 
-- [Microsoft365.com/Copilot에서 Microsoft 365 Business Chat 사용](https://support.microsoft.com/topic/use-microsoft-365-chat-at-microsoft365-com-or-in-the-microsoft-365-office-app-4a2538f9-962f-4c7c-a368-f6006bc13d6f)
+- [Microsoft365.com/Copilot에서 Microsoft 365 Copilot Chat 사용](https://support.microsoft.com/topic/use-microsoft-365-chat-at-microsoft365-com-or-in-the-microsoft-365-office-app-4a2538f9-962f-4c7c-a368-f6006bc13d6f)

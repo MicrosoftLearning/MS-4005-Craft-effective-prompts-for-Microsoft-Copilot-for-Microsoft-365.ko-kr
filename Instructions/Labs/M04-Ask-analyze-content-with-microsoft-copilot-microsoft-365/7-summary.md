@@ -1,7 +1,8 @@
+# 요약
 
 이 모듈에서는 Microsoft 365 Copilot이 Microsoft 문서 및 파일 내에서 정보를 요청하는 효과적인 프롬프트를 만드는 방법을 배웠습니다. 또한 Microsoft 365 Copilot과 다양한 Microsoft 애플리케이션의 여러 기능에 대해서도 배웠습니다. 파일, 문서, 채팅, 미팅을 기반으로 인사이트와 제안을 생성합니다. 이 모듈에서는 Microsoft 365 Copilot에서 정확하고 유용한 결과를 생성하는 프롬프트를 만드는 데 필요한 지식과 기술을 갖출 수 있습니다.
 
-이 모듈의 주요 내용은 다음과 같습니다.
+이 모듈의 중요한 점은 다음과 같습니다.
 
 - Microsoft 365 Copilot은 Word, PowerPoint, Excel, OneNote 및 Teams와 같은 다양한 Microsoft 애플리케이션을 지원할 수 있는 강력한 도구입니다.
 
