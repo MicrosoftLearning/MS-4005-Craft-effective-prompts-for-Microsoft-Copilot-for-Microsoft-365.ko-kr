@@ -18,7 +18,7 @@
 4. **Microsoft 365 시작**에서 **로그인**을 선택합니다.
 5. **로그인 프롬프트**에서 `userx@yourtenant.onmicrosoft.com`(테넌트가 제공한 사용자 이름과 테넌트) 입력 후 **다음**을 선택합니다.
 
-    [![Skillable의 리소스 창 스크린샷](../media/lab_resources_password.png)](../media/lab_resources_password.png#lightbox)
+    [![스크린샷 리소스 창](../media/lab_resources_password.png)](../media/lab_resources_password.png#lightbox)
 
 6. **암호 입력** 화면에서 사용자 계정의 암호(테넌트 공급자가 제공)를 입력한 후 **로그인**을 선택합니다.
 7. **로그인 유지**라는 메시지가 표시되면 **다시 표시하지 않음**을 선택한 다음 **예**를 선택합니다.

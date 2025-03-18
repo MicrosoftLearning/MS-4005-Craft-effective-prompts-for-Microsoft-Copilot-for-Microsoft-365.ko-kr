@@ -18,7 +18,7 @@
 4. **Microsoft 365 시작**에서 **로그인**을 선택합니다.
 5. **로그인 프롬프트**에서 `userx@yourtenant.onmicrosoft.com`(테넌트가 제공한 사용자 이름과 테넌트) 입력 후 **다음**을 선택합니다.
 
-    [![Skillable의 리소스 창 스크린샷](../media/lab_resources_password.png)](../media/lab_resources_password.png#lightbox)
+    [![스크린샷 리소스 창](../media/lab_resources_password.png)](../media/lab_resources_password.png#lightbox)
 
 6. **암호 입력** 화면에서 사용자 계정의 암호(테넌트 공급자가 제공)를 입력한 후 **로그인**을 선택합니다.
 7. **로그인 유지**라는 메시지가 표시되면 **다시 표시하지 않음**을 선택한 다음 **예**를 선택합니다.
@@ -32,7 +32,7 @@
 
 ### 참조 파일
 
-Copilot에서 파일을 참조할 때 제공된 제안에서 일부 파일을 찾을 수 없습니다. Copilot이 특정 환경에서는 MRU(가장 최근 사용) 목록의 파일만 참조하는 반면 다른 환경에서는 사용자가 OneDrive에서 파일을 직접 찾아볼 수 있기 때문에 이러한 현상이 가끔 발생합니다. 해당 목록에 추가하는 것은 적절한 Microsoft 365 앱에서 여는 것만큼 쉽습니다.  열면 MRU 목록에 표시됩니다.
+Copilot에서 파일을 참조할 때 제공된 제안에서 일부 파일을 찾을 수 없습니다. Copilot의 특정 환경에서는 MRU(가장 최근 사용) 목록의 파일만 참조하는 반면 다른 환경에서는 OneDrive에서 파일을 직접 찾아볼 수 있기 때문에 이러한 현상이 가끔 발생합니다. 해당 목록에 추가하는 것은 적절한 Microsoft 365 앱에서 여는 것만큼 쉽습니다.  열면 MRU 목록에 표시됩니다.
 
 > [!IMPORTANT]
 > Microsoft 365 Copilot은 OneDrive에 저장된 파일에서만 작동합니다. PC에 로컬로 저장된 파일은 해당 파일을 OneDrive로 이동하여 Copilot을 활성화해야 합니다.
